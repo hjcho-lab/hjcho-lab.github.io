@@ -2,14 +2,19 @@
 main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+
   - title: "Lecture"
     url: /_Lecture/         # Lecture contents
+
   - title: "Research"
     url: /_Research/       # modulation spectrogram & Compresive sensing
-  - title: "misscellaneous"
-    url: /_misscellaneous/ # should edit
+
+  - title: "Blogs"
+    url: /_Blogs/      # should edit
+
   - title: "Tags"
     url: /tags/      # should edit
+
   - title: "CV"
     url: /CV_hjcho/        # CV - single page!
 
