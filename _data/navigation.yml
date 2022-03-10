@@ -1,19 +1,41 @@
+# example navigation
+foo:
+  - title: "Parent Link 1"
+    url: /parent-1-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+  - title: "Parent Link 2"
+    url: /parent-2-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+      - title: "Child Link 3"
+        url: /child-3-page-url/
+
+
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 
-  - title: "Lecture"
-    url: /_Lecture/         # Lecture contents
+  - title: "By categories"
+    url: /categories/         # Lecture contents
+    # url: /_Lecture/         # Lecture contents
 
-  - title: "Research"
-    url: /_Research/       # modulation spectrogram & Compresive sensing
+  # - title: "Research"
+    # url: /_Research/       # modulation spectrogram & Compresive sensing
 
-  - title: "Blogs"
-    url: /_Blogs/      # should edit
+  # - title: "Blogs"
+    # url: /_Blogs/      # should edit
 
-  - title: "Tags"
-    url: /tags/      # should edit
+  - title: "By Tags"
+    url: /tags/        # should edit
+    # url: /tags-grid/        # should edit
 
   - title: "CV"
     url: /CV_hjcho/        # CV - single page!
@@ -23,3 +45,19 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  # - title: "Pages"
+  #   url: /page-archive/
+
+
+# documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/

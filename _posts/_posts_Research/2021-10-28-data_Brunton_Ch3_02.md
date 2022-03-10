@@ -19,3 +19,6 @@ toc_label: "TOC"
 # section 3.6 Sparse representation, <sub>p118</sub>
 
 
+![Github_Logo](./img/CS_fig1.png)
+
+<img src="./img/CS_fig1.png" width="100px" height="50px" title="Github_Logo"></img>

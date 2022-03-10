@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : "version 1.0"
 name                     : "Hyunjin Cho"
 description              : # "*, ROKN"
-url                      : "https://hihjcho.github.io"
+url                      : "https://hjcho-lab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/hihjcho/hihjcho.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/hjcho-lab/hjcho-lab.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -100,6 +100,7 @@ analytics:
     anonymize_ip         : # true, false (default)
 
 
+
 # Site Author
 author:
   name             : "Hyunjin Cho"
@@ -110,21 +111,21 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hihjcho@webmail.korea.ac.kr"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+      url: "mailto:hihjcho@korea.ac.kr"
+    # - label: "Website"
+      # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/hyunjin.cho.777/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hihjcho"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 # Site Footer
@@ -133,23 +134,28 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:hihjcho@webmail.korea.ac.kr"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    # - label: "Website"
+      # icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/hyunjin.cho.777/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/hihjcho"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Instagram"
+      # icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
 
+
+
+#
+#
+#
 # Reading Files
 include:
   - .htaccess

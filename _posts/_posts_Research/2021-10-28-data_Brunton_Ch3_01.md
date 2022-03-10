@@ -1,6 +1,7 @@
 ---
 layout: single
 title:  "Ch3 Sparsity and Compressed Sensings, 1"
+categories: 
 tag:
 - text
 use_math: true
@@ -34,7 +35,6 @@ A compressible signal $\boldsymbol{x} \in \mathbb{R}^n$ may be written as a spar
 
 $$
 \boldsymbol{x} = \boldsymbol{\Psi} \boldsymbol{s} \tag{3.1}
-
 $$
 
 Specifically, the vector $\boldsymbol{s}$ is called $K$-sparse in $\boldsymbol{\Psi}$ if there are exactly $K$ nonzero elements.
@@ -54,7 +54,6 @@ The measurements $\boldsymbol{y} \in \mathbb{R}^p$, with $K < p \ll n$ are given
 
 $$
 \boldsymbol{y} = \boldsymbol{C} \boldsymbol{x}
-
 $$
 
 The measurement matrix $\boldsymbol{C} \in \mathbb{R}^{p*n}$ represents a set of $p$ linear measurements on the state $\boldsymbol{x}$
