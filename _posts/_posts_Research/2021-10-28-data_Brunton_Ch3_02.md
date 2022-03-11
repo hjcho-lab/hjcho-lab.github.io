@@ -19,6 +19,14 @@ toc_label: "TOC"
 # section 3.6 Sparse representation, <sub>p118</sub>
 
 
-![Github_Logo](./img/CS_fig1.png)
+방법 1
+![testimg](./img/CS_fig1.png)
 
-<img src="./img/CS_fig1.png" width="100px" height="50px" title="Github_Logo"></img>
+방법 1
+![testimg](img/CS_fig1.png)
+
+방법 2
+<img src="./img/CS_fig1.png" width="100px" height="50px" title="testimg"></img>
+
+방법 3
+<img src="img/CS_fig1.png" width="100px" height="50px" title="testimg"></img>
