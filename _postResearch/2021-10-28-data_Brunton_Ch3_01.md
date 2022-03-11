@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "Ch3 Sparsity and Compressed Sensings, 1"
+title:  "post in postResearch folder #1"
 categories: 
 tag:
 - text
