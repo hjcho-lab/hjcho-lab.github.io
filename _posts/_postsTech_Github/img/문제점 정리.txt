@@ -1,0 +1,10 @@
+
+_posts 폴더 및 _posts 폴더 하위 폴더에 존재하는 md 파일은 자동으로 인식을 한다.
+_posts 폴더 이외에 저장된 md 파일은 인식을 하지 못한다. `_config.yml`에 include 라인에서 md 파일이 저장된 폴더가 포함되어 있다고 하더라도...
+
+https://mmistakes.github.io/minimal-mistakes/docs/posts/
+https://jekyllrb.com/docs/posts/
+
+_posts 폴더 및 _posts 폴더 하위 폴더에 존재하는 md 파일은 자동으로 인식을 한다.고 하지만 img 폴더에 존재하는 파일은 블로그 페이지에서 보이지 않는다. md 파일에서는 보여진다.
+
+clone

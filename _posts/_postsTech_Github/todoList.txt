@@ -1,0 +1,4 @@
+
+1. github images 제대로 구현되도록
+
+2. math equation representation

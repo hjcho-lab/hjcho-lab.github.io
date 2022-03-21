@@ -161,7 +161,6 @@ include:
   - .htaccess
   - _pages
   - _posts
-  - _postResearch
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
